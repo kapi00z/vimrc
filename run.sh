@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cp .vimrc ~
-sudo cp .vimrc /root
+cp -f .vimrc ~
+sudo cp -f .vimrc /root
