@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir=$(dirname "$0")
+dir='/home/kacper'
 
 mkdir -p ~/.config/nvim
 sudo mkdir -p /root/.config/nvim

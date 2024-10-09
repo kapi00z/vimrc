@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir=$(dirname "$0")
+dir='/home/kacper'
 
 cp -f $dir/.vimrc ~
 sudo cp -f $dir/.vimrc /root
